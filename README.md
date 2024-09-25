@@ -10,15 +10,15 @@ A fully-featured React Native/Expo boilerplate that comes pre-configured with **
 
 ## Getting Started
 
-1. **Clone the repository:** `git clone https://github.com/your-repo/react-native-nativewind-boilerplate.git`
+1. **Clone the repository:**
+2. 
+3. **Navigate to the project directory:**
 
-2. **Navigate to the project directory:** `cd react-native-nativewind-boilerplate`
+4. **Install dependencies:** `npm install` or `yarn install`
 
-3. **Install dependencies:** `npm install` or `yarn install`
+5. **Start the development server:** `npm start` or `yarn start`
 
-4. **Start the development server:** `npm start` or `yarn start`
-
-5. **Run the app on iOS, Android, or Web:**
+6. **Run the app on iOS, Android, or Web:**
    - For iOS: `npm run ios`
    - For Android: `npm run android`
    - For Web: `npm run web`
