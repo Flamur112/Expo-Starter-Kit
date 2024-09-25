@@ -11,14 +11,14 @@ A fully-featured React Native/Expo boilerplate that comes pre-configured with **
 ## Getting Started
 
 1. **Clone the repository:**
-2. 
-3. **Navigate to the project directory:**
 
-4. **Install dependencies:** `npm install` or `yarn install`
+2. **Navigate to the project directory:**
 
-5. **Start the development server:** `npm start` or `yarn start`
+3. **Install dependencies:** `npm install` or `yarn install`
 
-6. **Run the app on iOS, Android, or Web:**
+4. **Start the development server:** `npm start` or `yarn start`
+
+5. **Run the app on iOS, Android, or Web:**
    - For iOS: `npm run ios`
    - For Android: `npm run android`
    - For Web: `npm run web`
